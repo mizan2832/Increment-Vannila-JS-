@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.buttonList button{
+    padding: 15px;
+    margin-right: 5px;
+}
